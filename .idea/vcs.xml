@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="VcsDirectoryMappings">
+    <mapping directory="$PROJECT_DIR$" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Indira/Android-Pertemuan03-Intent--main/Android-Pertemuan03-Intent--main" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Indira/Android-RecyclverView-main/Android-RecyclverView-main" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Indira/MateriApi-main" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Indira/MateriFragment-main/MateriFragment-main" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Indira/MateriMVVM-master" vcs="Git" />
+  </component>
+</project>
